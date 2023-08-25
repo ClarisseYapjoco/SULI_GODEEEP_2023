@@ -1,0 +1,280 @@
+Using an array to plot every BA total load data
+Balancing Authority: AVA
+Maximum total load
+2751.21
+Maximum total load position
+833
+Maximum total load date
+2025-02-04 17:00:00
+Maximum total load's transportation load
+39.89
+
+Balancing Authority: AZPS
+Maximum total load
+8787.15
+Maximum total load position
+13273
+Maximum total load date
+2025-07-08 01:00:00
+Maximum total load's transportation load
+534.34
+
+Balancing Authority: BANC
+Maximum total load
+5507.06
+Maximum total load position
+22081
+Maximum total load date
+2025-07-10 01:00:00
+Maximum total load's transportation load
+236.7
+
+Balancing Authority: BPAT
+Maximum total load
+12225.94
+Maximum total load position
+27112
+Maximum total load date
+2025-02-04 16:00:00
+Maximum total load's transportation load
+275.16
+
+Balancing Authority: CHPD
+Maximum total load
+546.13
+Maximum total load position
+35872
+Maximum total load date
+2025-02-04 16:00:00
+Maximum total load's transportation load
+6.32
+
+Balancing Authority: CISO
+Maximum total load
+61396.52
+Maximum total load position
+48337
+Maximum total load date
+2025-07-09 01:00:00
+Maximum total load's transportation load
+3130.36
+
+Balancing Authority: DOPD
+Maximum total load
+404.19
+Maximum total load position
+53368
+Maximum total load date
+2025-02-03 16:00:00
+Maximum total load's transportation load
+1.25
+
+Balancing Authority: EPE
+Maximum total load
+1892.92
+Maximum total load position
+65351
+Maximum total load date
+2025-06-17 23:00:00
+Maximum total load's transportation load
+43.38
+
+Balancing Authority: GCPD
+Maximum total load
+1064.28
+Maximum total load position
+74640
+Maximum total load date
+2025-07-10 00:00:00
+Maximum total load's transportation load
+7.09
+
+Balancing Authority: IID
+Maximum total load
+1688.16
+Maximum total load position
+83209
+Maximum total load date
+2025-07-02 01:00:00
+Maximum total load's transportation load
+421.65
+
+Balancing Authority: IPCO
+Maximum total load
+4171.15
+Maximum total load position
+92089
+Maximum total load date
+2025-07-07 01:00:00
+Maximum total load's transportation load
+82.95
+
+Balancing Authority: LDWP
+Maximum total load
+8926.7
+Maximum total load position
+102024
+Maximum total load date
+2025-08-25 00:00:00
+Maximum total load's transportation load
+1209.25
+
+Balancing Authority: NEVP
+Maximum total load
+10132.38
+Maximum total load position
+109585
+Maximum total load date
+2025-07-06 01:00:00
+Maximum total load's transportation load
+277.84
+
+Balancing Authority: NWMT
+Maximum total load
+1669.89
+Maximum total load position
+118440
+Maximum total load date
+2025-07-10 00:00:00
+Maximum total load's transportation load
+66.55
+
+Balancing Authority: PACE
+Maximum total load
+10272.55
+Maximum total load position
+127128
+Maximum total load date
+2025-07-07 00:00:00
+Maximum total load's transportation load
+244.45
+
+Balancing Authority: PACW
+Maximum total load
+4101.11
+Maximum total load position
+132232
+Maximum total load date
+2025-02-04 16:00:00
+Maximum total load's transportation load
+68.25
+
+Balancing Authority: PGE
+Maximum total load
+4655.95
+Maximum total load position
+144961
+Maximum total load date
+2025-07-20 01:00:00
+Maximum total load's transportation load
+274.53
+
+Balancing Authority: PNM
+Maximum total load
+3131.18
+Maximum total load position
+153431
+Maximum total load date
+2025-07-07 23:00:00
+Maximum total load's transportation load
+136.32
+
+Balancing Authority: PSCO
+Maximum total load
+9379.95
+Maximum total load position
+161496
+Maximum total load date
+2025-06-09 00:00:00
+Maximum total load's transportation load
+342.0
+
+Balancing Authority: PSEI
+Maximum total load
+6900.96
+Maximum total load position
+174483
+Maximum total load date
+2025-12-02 03:00:00
+Maximum total load's transportation load
+230.77
+
+Balancing Authority: SCL
+Maximum total load
+2234.03
+Maximum total load position
+183243
+Maximum total load date
+2025-12-02 03:00:00
+Maximum total load's transportation load
+94.32
+
+Balancing Authority: SRP
+Maximum total load
+7968.12
+Maximum total load position
+188497
+Maximum total load date
+2025-07-09 01:00:00
+Maximum total load's transportation load
+41.96
+
+Balancing Authority: TEPC
+Maximum total load
+3725.02
+Maximum total load position
+197113
+Maximum total load date
+2025-07-03 01:00:00
+Maximum total load's transportation load
+117.26
+
+Balancing Authority: TIDC
+Maximum total load
+786.09
+Maximum total load position
+206039
+Maximum total load date
+2025-07-09 23:00:00
+Maximum total load's transportation load
+28.61
+
+Balancing Authority: TPWR
+Maximum total load
+1168.0
+Maximum total load position
+218281
+Maximum total load date
+2025-12-02 01:00:00
+Maximum total load's transportation load
+47.72
+
+Balancing Authority: WACM
+Maximum total load
+5205.68
+Maximum total load position
+223512
+Maximum total load date
+2025-07-08 00:00:00
+Maximum total load's transportation load
+250.35
+
+Balancing Authority: WALC
+Maximum total load
+2006.87
+Maximum total load position
+232198
+Maximum total load date
+2025-07-04 22:00:00
+Maximum total load's transportation load
+69.05
+
+Balancing Authority: WAUW
+Maximum total load
+167.97
+Maximum total load position
+241104
+Maximum total load date
+2025-07-11 00:00:00
+Maximum total load's transportation load
+20.75

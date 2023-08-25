@@ -1,0 +1,15 @@
+Data,Scenario,Date,BA,Climate,Total Non Transportation Electrification Load Penenetration,Total Transportation Electrification Load Penetration,Total Load Penetration,Ratio (Load Penetration Percentage)
+Transportation Electrification Load,BAU,2050-09-29 02:00˜,CISO,cooler,,12276.77˜,,
+Transportation Electrification Load,NZ,2050-08-25 03:00˜,CISO,cooler,,18731.42˜,,
+Transportation Electrification Load,BAU,2050-08-26 03:00˜,CISO,hotter,,12336.15˜,,
+Transportation Electrification Load,NZ,2050-08-26 03:00˜,CISO,hotter,,18894.63˜,,
+,,,,,,,,
+Total Load,NZ,7/9/2025 1:00,CISO,NA,59563.79,3312.27,62876.06,5.267935046
+,,2/5/2025 1:00,,,30664.11,3551.27,34215.38,10.37916282
+,,7/9/2025 1:00,,,59563.79,3312.27,62876.06,5.267935046
+Total Load,NZ,8/2/2035 1:00,CISO,NA,63366.19,8819.02,72185.21,12.21721181
+,,9/7/2035 1:00,,,58701.19,9800.43,68501.62,14.30685873
+,,8/2/2035 1:00,,,63366.19,8819.02,72185.21,12.21721181
+Total Load,NZ,8/26/2050 1:00,CISO,NA,118426.45,17909.67,136336.12,13.13640875
+,,8/26/2050 2:00,,,115017.07,18894.63,133911.7,14.10976785
+,,8/26/2050 1:00,,,118426.45,17909.67,136336.12,13.13640875
